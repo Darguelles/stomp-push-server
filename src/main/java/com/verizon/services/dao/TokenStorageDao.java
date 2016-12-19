@@ -1,4 +1,4 @@
-package com.verizon.services;
+package com.verizon.services.dao;
 
 public interface TokenStorageDao {
 

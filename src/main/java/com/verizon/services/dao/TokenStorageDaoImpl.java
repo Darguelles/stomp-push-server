@@ -1,4 +1,4 @@
-package com.verizon.services;
+package com.verizon.services.dao;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.*;
