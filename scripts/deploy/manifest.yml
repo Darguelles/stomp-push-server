@@ -1,0 +1,7 @@
+---
+applications:
+- name: ebond-pushnotifications-api
+  host: ebond-pushnotifications-api
+  instances: 1
+  memory: 512M
+  path: target/ebond-pushnotifications-api-0.0.1-SNAPSHOT.jar
